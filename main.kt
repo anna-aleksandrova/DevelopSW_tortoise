@@ -7,3 +7,11 @@ fun main() {
         helloworld()
     }
 }
+
+fun vivaMechMat() {
+    println("Viva MechMat faculty!!!")
+}
+
+fun main() {
+    vivaMechMat()
+}
